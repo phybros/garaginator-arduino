@@ -1,28 +1,31 @@
 {
   "packages": [
     {
-      "name": "garaginator",
+      "name": "GARAGINATOR",
       "maintainer": "phybros",
-      "websiteUrl": "https://github.com/phybros/garaginator-arduino",
-      "Url": "https://github.com/phybros/garaginator-arduino/raw/main/boards.json",
+      "websiteURL": "https://github.com/phybros/garaginator-arduino",
       "email": "will@willwarren.com",
+      "help": {
+        "online": "https://github.com/phybros/garaginator-arduino"
+      },
       "platforms": [
         {
           "name": "GARAGINATOR",
           "architecture": "esp32",
           "version": "1.0.0",
-          "deprecated": false,
           "category": "ESP32",
           "url": "https://github.com/phybros/garaginator-arduino/raw/main/garaginator-arduino-1.0.0.zip",
           "archiveFileName": "garaginator-arduino-1.0.0.zip",
           "checksum": "SHA-256:70e4b9ebfd36bd9426d45b0beb9f62a4f4bca498c8231c961da22e94a5f49ee9",
           "size": "10617",
+          "help": {
+            "online": "https://github.com/phybros/garaginator-arduino"
+          },
           "boards": [
             {
               "name": "GARAGINATOR"
             }
           ],
-          "help": {},
           "toolsDependencies": [
             {
               "packager": "esp32",
@@ -79,14 +82,9 @@
               "name": "dfu-util",
               "version": "0.11.0-arduino5"
             }
-          ],
-          "discoveryDependencies": [],
-          "monitorDependencies": []
+          ]
         }
-      ],
-      "help": {
-        "online": "https://github.com/phybros/garaginator-arduino"
-      }
+      ]
     }
   ]
 }
