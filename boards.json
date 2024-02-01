@@ -3,7 +3,7 @@
     {
       "name": "garaginator",
       "maintainer": "phybros",
-      "websiteUrl": "https://willwarren.com/garaginator",
+      "websiteUrl": "https://github.com/phybros/garaginator-arduino",
       "Url": "https://raw.githubusercontent.com/phybros/garaginator-arduino/boards.json",
       "email": "will@willwarren.com",
       "platforms": [
@@ -15,7 +15,7 @@
           "category": "ESP32",
           "url": "https://github.com/phybros/garaginator-arduino/raw/main/garaginator-arduino-1.0.0.zip",
           "archiveFileName": "garaginator-arduino-1.0.0.zip",
-          "checksum": "SHA-256:96fbaeeceeedef70cd088d59916a83fa778d41c83d391fba6b6b50a797aaccfb",
+          "checksum": "SHA-256:a1da1afa081687badde4bd4d33dae5298841d33fd1bb64af5d7b2dd21d69e44e",
           "size": "11311",
           "boards": [
             {

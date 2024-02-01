@@ -44,8 +44,8 @@ garaginator.build.tarch=riscv32
 garaginator.build.target=esp
 garaginator.build.mcu=esp32c3
 garaginator.build.core=esp32
-garaginator.build.variant=esp32c3
-garaginator.build.board=ESP32C3_DEV
+garaginator.build.variant=garaginator
+garaginator.build.board=GARAGINATOR
 garaginator.build.bootloader_addr=0x0
 
 garaginator.build.cdc_on_boot=1
