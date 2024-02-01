@@ -8,15 +8,15 @@
       "email": "will@willwarren.com",
       "platforms": [
         {
-          "name": "esp32",
+          "name": "garaginator",
           "architecture": "esp32",
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.14/esp32-2.0.14.zip",
+          "url": "https://github.com/phybros/garaginator-arduino/raw/main/garaginator-arduino-1.0.0.zip",
           "archiveFileName": "garaginator-arduino-1.0.0.zip",
-          "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
-          "size": "252506057",
+          "checksum": "SHA-256:96fbaeeceeedef70cd088d59916a83fa778d41c83d391fba6b6b50a797aaccfb",
+          "size": "11311",
           "boards": [
             {
               "name": "GARAGINATOR"
