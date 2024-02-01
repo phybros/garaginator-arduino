@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "GARAGINATOR",
+      "name": "garaginator",
       "maintainer": "phybros",
       "websiteURL": "https://github.com/phybros/garaginator-arduino",
       "email": "will@willwarren.com",
