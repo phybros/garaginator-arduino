@@ -4,7 +4,7 @@
       "name": "garaginator",
       "maintainer": "phybros",
       "websiteUrl": "https://github.com/phybros/garaginator-arduino",
-      "Url": "https://raw.githubusercontent.com/phybros/garaginator-arduino/boards.json",
+      "Url": "https://github.com/phybros/garaginator-arduino/raw/main/boards.json",
       "email": "will@willwarren.com",
       "platforms": [
         {
@@ -85,7 +85,7 @@
         }
       ],
       "help": {
-        "online": "http://willwarren.com/garaginator"
+        "online": "https://github.com/phybros/garaginator-arduino"
       }
     }
   ]
