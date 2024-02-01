@@ -8,7 +8,7 @@
       "email": "will@willwarren.com",
       "platforms": [
         {
-          "name": "garaginator",
+          "name": "GARAGINATOR",
           "architecture": "esp32",
           "version": "1.0.0",
           "deprecated": false,
@@ -88,6 +88,5 @@
         "online": "http://willwarren.com/garaginator"
       }
     }
-  ],
-  "IsTrusted": false
+  ]
 }

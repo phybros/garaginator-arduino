@@ -1,4 +1,4 @@
-name=GARAGINATOR Arduino
+name=GARAGINATOR
 version=1.0.0
 
 tools.xtensa-esp32-elf-gcc.path={runtime.tools.xtensa-esp32-elf-gcc.path}
