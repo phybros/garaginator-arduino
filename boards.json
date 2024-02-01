@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/phybros/garaginator-arduino/raw/main/garaginator-arduino-1.0.0.zip",
+          "url": "https://github.com/phybros/garaginator-arduino/releases/download/v1.0.0/garaginator-arduino-1.0.0.zip",
           "archiveFileName": "garaginator-arduino-1.0.0.zip",
           "checksum": "SHA-256:70e4b9ebfd36bd9426d45b0beb9f62a4f4bca498c8231c961da22e94a5f49ee9",
           "size": "10617",
